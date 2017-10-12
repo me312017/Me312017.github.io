@@ -25,7 +25,13 @@ body {
 h1 { border: 2px solid black 
 	Padding: 10px}
 	
-.picture { float: center }
+.picture  
+{
+    width: 602px;
+    border: 100px solid #A3D1D5;
+    padding: 40px;
+    margin: 25px;
+} 
 .button {
     background-color: #D6DBDF; 
     border: none;
