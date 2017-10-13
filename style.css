@@ -41,6 +41,10 @@ h1 { border: 2px solid black
     display: inline-block;
     font-size: 16px;
 	}
+.home{
+	background-color: silver;
+	padding: 20px;
+	}
 .chaos{
   background-color: yellow; 
     border: none;
